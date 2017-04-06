@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.body {
+	background-color: #000000;
+}
+h1 {
+	color: #C0C0C0;
+	font-weight: normal;
+	font-size: x-large;
+}
+h2 {
+	color: #FFFFFF;
+	font-weight: normal;
+	font-size: large;
+}
+h3 {
+	color: #EE8A8B;
+	font-weight: lighter;
+	font-size: x-large;
+}
+hr {
+	color: #FF0004;
+	border-color: hsla(359,30%,63%,0.36);
+}
+.max1200 {
+	max-width: 1000px;
+}
